@@ -1,4 +1,4 @@
-#Angry Birds SVG
+## Angry Birds SVG ##
 
 This is a fun project about rendering angry birds characters using SVG.
 
